@@ -1,0 +1,14 @@
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: black;
+  font-size: larger;
+  font-weight: 800;
+}
+
+.language-list {
+  margin: 20px;
+  font-family: roboto;
+}

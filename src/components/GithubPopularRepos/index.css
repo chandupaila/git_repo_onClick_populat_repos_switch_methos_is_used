@@ -1,0 +1,39 @@
+.bg-container {
+  width: 100%;
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: lobster;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 70px;
+}
+.language {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+}
+
+.gitUnOrderList {
+  width: 70%;
+  display: flex;
+}
+
+.repoListUnOrder {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.bottom {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
